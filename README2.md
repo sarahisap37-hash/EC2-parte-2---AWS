@@ -1,4 +1,4 @@
-#  Atividade: AWS Elastic Beanstalk
+#  AWS Elastic Beanstalk
 
 Este guia prático descreve as etapas para configurar, implantar e monitorar uma aplicação Java utilizando o **AWS Elastic Beanstalk**, um serviço de PaaS (Plataforma como Serviço) que facilita o gerenciamento de infraestrutura.
 
