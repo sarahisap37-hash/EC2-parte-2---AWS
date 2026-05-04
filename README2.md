@@ -4,8 +4,6 @@ Este guia prático descreve as etapas para configurar, implantar e monitorar uma
 
 ---
 
-##  Passo a Passo
-
 ### 1. Acesso ao Ambiente
 1. No **Console AWS**, pesquise e selecione **Elastic Beanstalk**.
 2. Na tabela de **Ambientes**, localize sua aplicação e verifique se a coluna *Integridade* exibe o status **Ok**.
