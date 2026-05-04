@@ -1,10 +1,10 @@
-# 🤖 AWS Lambda 
+#  AWS Lambda 
 
 Este projeto automatiza a interrupção de instâncias **Amazon EC2** utilizando uma função **AWS Lambda** escrita em Python e agendada pelo **Amazon EventBridge**.
 
 ---
 
-## 🚀 Passo 1: Criar a Função Lambda
+##  Passo 1: Criar a Função Lambda
 1. No **Console AWS**, pesquise por **Lambda**.
 2. Clique em **Criar função** e selecione **Criar do zero**.
 3. Configure os detalhes básicos:
@@ -15,7 +15,7 @@ Este projeto automatiza a interrupção de instâncias **Amazon EC2** utilizando
 
 ---
 
-## ⏱️ Passo 2: Configurar o Gatilho (EventBridge)
+##  Passo 2: Configurar o Gatilho (EventBridge)
 1. No painel da função, clique em **Adicionar gatilho**.
 2. Selecione **EventBridge (CloudWatch Events)** no menu suspenso.
 3. Escolha **Criar uma nova regra**:
@@ -27,7 +27,7 @@ Este projeto automatiza a interrupção de instâncias **Amazon EC2** utilizando
 
 ---
 
-## 💻 Passo 3: Implementar o Código
+##  Passo 3: Implementar o Código
 1. Na aba **Código**, abra o arquivo `lambda_function.py`.
 2. Substitua o código existente pelo bloco abaixo:
 
